@@ -1,0 +1,8 @@
+/* this is a multiline*/
+int sum, x,y;//ths is a cpp comment
+float abc = 0;
+sum = x *y;
+abc = sum/x;
+return 0;
+
+

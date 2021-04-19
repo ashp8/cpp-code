@@ -1,0 +1,25 @@
+
+int sum, x,y;
+float abc = 0;
+sum = x *y;
+abc = sum/x;
+return 0;
+
+
+1.sum=int
+2.x=int
+3.y=int
+4.abc=float
+
+1. , = comma
+2. , = comma
+3. ; = semiclone
+4. = = equal
+5. ; = semiclone
+6. = = equal
+7. * = unary_multiplication
+8. ; = semiclone
+9. = = equal
+10. / = unary_divition
+11. ; = semiclone
+12. ; = semiclone
